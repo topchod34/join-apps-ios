@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "testnet_ap_tea": "^1.0.0",
-    "tea=masterFI": "^1.0.0",
+    "tea-masterFI": "^1.0.0",
     "minti_fulkerson": "0.1.4"
   },
   "author": "",
