@@ -1,0 +1,19 @@
+{
+  "name": "join-apps-ios",
+  "version": "1.0.0",
+  "description": "tea &amp; teat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topchod34/join-apps-ios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/topchod34/join-apps-ios/issues"
+  },
+  "homepage": "https://github.com/topchod34/join-apps-ios#readme"
+}
