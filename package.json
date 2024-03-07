@@ -8,7 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/topchod34/join-apps-ios.git"
+    "url": "https://github.com/topchod34/join-apps-ios.git"
+  },
+  "dependencies": {
+    "testnet_ap_tea": "^1.0.0",
+    "tea=masterFI": "^1.0.0",
+    "minti_fulkerson": "0.1.4"
   },
   "author": "",
   "license": "ISC",
